@@ -41,37 +41,37 @@ https://d1.awsstatic.com/training-and-certification/docs-sa-pro/AWS%20Certified%
 
 ## Security, identity & compliance
 
-- AWS Identity & Access Management
+- **AWS Identity & Access Management**
   Manage User Access and Encryption Keys
-- Amazon Cognito
+- **Amazon Cognito**
   Identity Management for your Apps
-- Amazon GuardDuty
+- **Amazon GuardDuty**
   Managed Threat Detection Service
-- Amazon Inspector
+- **Amazon Inspector**
   Analyze Application Security
-- Amazon Macie
+- **Amazon Macie**
   Discover, Classify, and Protect your Data
-- AWS artifact
+- **AWS artifact**
   On-demand access to AWS compliance reports
-- AWS Certificate Manager
+- **AWS Certificate Manager**
   Provision, Manage, and Deploy SSL/TLS Certificates
-- AWS CloudHSM
+- **AWS CloudHSM**
   Hardware-based Key Storage for Regulatory Compliance
-- AWS Directory Service
+- **AWS Directory Service**
   Host and Manage Active Directory
-- AWS Firewall Manager
+- **AWS Firewall Manager**
   Central Management of Firewall Rules
-- AWS Key Management Service
+- **AWS Key Management Service**
   Managed Cretion and Control of Encryption Keys
-- AWS Resource Access Manager
+- **AWS Resource Access Manager**
   Simple, secure service to share AWS resource
-- AWS Secrets Manager
+- **AWS Secrets Manager**
   Rotate, Manage, and Retrieve Secrets
-- AWS Security Hub
+- **AWS Security Hub**
   Unified security and compliance center
-- AWS Shield
+- **AWS Shield**
   DDoS Protection
-- AWS Single Sign-On
+- **AWS Single Sign-On**
   Cloud Single Sign-On (SSO) Service
-- AWS WAF
+- **AWS WAF**
   Filter Malicious Web Traffic
